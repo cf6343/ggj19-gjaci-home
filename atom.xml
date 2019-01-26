@@ -5,9 +5,9 @@
   <subtitle>Website for global game jam 2019 entry.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://rimij405.github.io/ggj19-gjaci-home/"/>
+  <link href="https://rimij405.github.io/ggj19-gjaci-home/"/>
   <updated>2019-01-26T15:56:31.575Z</updated>
-  <id>http://rimij405.github.io/ggj19-gjaci-home/</id>
+  <id>https://rimij405.github.io/ggj19-gjaci-home/</id>
   
   <author>
     <name>Ian Effendi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://rimij405.github.io/ggj19-gjaci-home/gamejam/hello-world/"/>
-    <id>http://rimij405.github.io/ggj19-gjaci-home/gamejam/hello-world/</id>
+    <link href="https://rimij405.github.io/ggj19-gjaci-home/gamejam/hello-world/"/>
+    <id>https://rimij405.github.io/ggj19-gjaci-home/gamejam/hello-world/</id>
     <published>2019-01-26T15:56:31.575Z</published>
     <updated>2019-01-26T15:56:31.575Z</updated>
     
